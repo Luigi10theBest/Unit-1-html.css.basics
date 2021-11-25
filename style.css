@@ -1,8 +1,12 @@
 body{
-    background-image: linear-gradient(black,  white,white ,black);
+    background-image: linear-gradient(#16b507,  white,white ,white, white,white,white, white, white, white, white, white, white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white,white,white, white, white, #16b507);
 }
 
 
 textarea{
     background-image: linear-gradient(white , white ,white ,white);
+}
+
+.text-primary{
+    color: #e00000
 }
